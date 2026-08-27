@@ -118,7 +118,7 @@ The OLED also provided simple visual feedback:
 
 A video demonstration of the working prototype shows the complete system in action, including sensor readings, automatic watering, water-level monitoring, alerts, OLED feedback and cloud integration.
 
-**[▶ Watch the prototype demonstration](PASTE-VIDEO-LINK-HERE)**
+**[▶ Watch the prototype demonstration](https://youtu.be/JvSVnkj47oE)**
 
 ## 👥 Project Context
 
